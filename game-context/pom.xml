@@ -314,7 +314,7 @@
 				</executions>
 
 				<configuration>
-					<hostname>www.toyo.cool</hostname>
+					<hostname>192.182.99.100</hostname>
 					<username>developer</username>
 					<password>1qaz2wsx</password>
 					<port>22</port>
